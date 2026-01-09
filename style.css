@@ -104,6 +104,7 @@ body {
   object-fit: cover;
 }
 
+/* ===== Projects ===== */
 .projects-items {
   display: flex;
   flex-wrap: wrap;
